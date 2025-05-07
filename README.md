@@ -1,5 +1,5 @@
 # BUET-CSE-SESSIONAL-TASK
-This doc contains the links to all of my theory classes of BUET CSE.
+This doc contains the links to all of my sessional tasks of BUET CSE.
 
 
 ## Table of Contents:
