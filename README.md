@@ -11,7 +11,7 @@ This doc contains the links to all of my theory classes of BUET CSE.
 <img src="/assets/banner.png" height="600px" width="600px">
 
 ## Level 2 Term 2
-- [Theory](https://github.com/HATECODER/L-2-T-2-THEORY.git)
+- [Sessional Task](https://github.com/HATECODER/Level-2-Term-2.git)
 
   
   
