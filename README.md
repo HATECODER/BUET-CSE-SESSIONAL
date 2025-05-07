@@ -8,7 +8,7 @@ This doc contains the links to all of my theory classes of BUET CSE.
  - [Level 3 Term 2](#level-3-term-2)
  - [Level 4 Term 1](#level-4-term-1)
 
-<img src="/assets/banner.png" height="600px" width="600px">
+<img src="/assets/banner.png" height="500px" width="700px">
 
 ## Level 2 Term 2
 - [Sessional Task](https://github.com/HATECODER/Level-2-Term-2.git)
